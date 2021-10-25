@@ -1,4 +1,11 @@
 *{
     font-family:arial;
 }
-<
+.navbar-container{
+    backround-color:black;
+}
+.navbar{
+    padding:5px 5px;
+    background-color:black;
+    color:white;
+}
