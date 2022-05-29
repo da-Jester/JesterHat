@@ -1,0 +1,17 @@
+*{
+    font-family:arial;
+    background-color:white;
+}
+.navbar a{
+    padding:10px 10px;
+    background-color:rgb(255, 255, 255);
+    color:black;
+    float: left;
+    text-align:center;
+    text-decoration: none;
+    transition-duration:0.3s;
+}
+.navbar a:hover{
+  background-color: black;
+  color:white;
+}

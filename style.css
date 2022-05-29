@@ -1,11 +1,26 @@
 *{
     font-family:arial;
-}
-.navbar-container{
-    backround-color:black;
+	background-color: #000082;
+	max-width:900px;
+	margin:auto;
+	font-family: "Arail";
+	font-size: 17;
 }
 .navbar{
-    padding:5px 5px;
-    background-color:black;
+    backround-color:black;
+    overflow: hidden;
+}
+.navbar a{
+	font-size: 20;
+    padding:10px 10px;
+    background-color:#000082;
     color:white;
+    float: left;
+    text-align:center;
+    text-decoration: none;
+    transition-duration:0.3s;
+}
+.navbar a:hover{
+  background-color: white;
+  color:black;
 }
